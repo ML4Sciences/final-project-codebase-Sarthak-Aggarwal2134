@@ -13,4 +13,4 @@ The authors also performed ablation experiments to evaluate the contribution of 
 The authors concluded that ProsGnn is a promising model for predicting the effect of mutations on protein stability. Its high accuracy and robustness can aid in drug design and protein engineering. They suggested that future research can explore its application in other protein-related tasks.
 
 ## Repository Contents
-The repository contains the results obtained by running the code for ProSGNN. The results are presented in the pdf file. The code for ProsGnn is available in the Baseline Model repository.
+The repository contains the results obtained by running the code for ProSGNN. The results are presented in the pdf file. The code for ProSGNN is available in the Baseline Model repository.
