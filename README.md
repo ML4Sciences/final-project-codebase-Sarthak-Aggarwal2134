@@ -1,4 +1,4 @@
-# Using Convulational AutoEncoders to Predict the Effect of Mutation on Protein Stability.
+# Using Convolutional Auto Encoders to Predict the Effect of Mutation on Protein Stability.
 ### Team:
 1. Sarthak Aggarwal
 2. Aum Khatlawala
