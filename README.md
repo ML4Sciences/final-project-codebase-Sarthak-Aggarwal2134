@@ -17,3 +17,9 @@
    4. One hot encoded data(both wild and mutated)
    5. Change in stability
 
+## Progress (19th April, 2023):
+1. Done with preprocessing of the data (converting each datapoint as a 3 tuple which contains atom positions, adjacency matrix and one hot encoding of the atom features).
+2. Challenges we are facing now:
+   1. The input data is of variable length - Possible solution: Padding the data.
+   2. The CAE has to be a multi channel input model - Possible solution: Concatenating the wild and mutated data.
+3. We are trying to work on this for now.
